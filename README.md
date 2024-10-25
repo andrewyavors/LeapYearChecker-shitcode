@@ -16,6 +16,7 @@ This is a highly sophisticated leap year checker that determines whether a year 
 #### **Why this code is glorious** 🌟
 
 -   It completely ignores basic leap year logic and just brute-forces its way with an array that no one should be forced to look at.
+-   It works only with years between 1800 and 2400 since nobody gives a 💩 if the year 1284 was leap or not.
 -   The entire logic is compacted into one line because who needs readability when you have pure chaos?
 -   No unnecessary comments, because the code speaks for itself (it screams, really).
 
